@@ -9,6 +9,8 @@
 - ⚡ Fun fact: Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork.
 - 💪 I believe in the power of team collaboration 
 - 💻 You can checkout my repositories here: https://github.com/EzekielWachira
+
+![](https://github.com/EzekielWachira/EzekielWachira/blob/master/animation_300_kfpiy130.gif)
 <!--
 **EzekielWachira/EzekielWachira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
