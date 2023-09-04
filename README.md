@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Vue.JS-3DDC84?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
+<!--   <img src="https://img.shields.io/badge/Vue.JS-3DDC84?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Typescript-0084c2?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Nuxt.JS-00c274?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Quasar-3db4eb?style=for-the-badge&logo=quasar&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Tailwind-3db4eb?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Vuetify-005ac2?style=for-the-badge&logo=vuetify&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vuetify-005ac2?style=for-the-badge&logo=vuetify&logoColor=white" height="30"/> -->
 </p>
 
 
