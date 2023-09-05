@@ -22,11 +22,24 @@
 ## Technology and tools
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kotlin-D113ED?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3FC781?style=for-the-badge&logo=jetpack-compose&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/Room%20Database-3FC781?style=for-the-badge&logo=roomdatabase&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Clean%20Architecture-3FC781?style=for-the-badge&logo=architecture&logoColor=3A83F9" height="30"/>
+     <img src="https://img.shields.io/badge/MVVM-0c7ded?style=for-the-badge&logo=mvvm&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Material%20Design-0c7ded?style=for-the-badge&logo=material-design&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=retrofit&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Dagger%20Hilt-4285F4?style=for-the-badge&logo=dagger-hilt&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Jetpack-3FC781?style=for-the-badge&logo=jetpack&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Git-2d2e2d?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Sentry-391E41?style=for-the-badge&logo=sentry&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Jira-0c7ded?style=for-the-badge&logo=jira&logoColor=white" height="30" />
 <!--   <img src="https://img.shields.io/badge/Vue.JS-3DDC84?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Typescript-0084c2?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
